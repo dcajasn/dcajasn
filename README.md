@@ -20,7 +20,7 @@ I'm not an academic but I wrote two working papers based on the mathematics that
 If you have a question about my projects, want to talk about quantitative finance or a related topic, want to hire my services or have an interested project you think we can colaborate, you can contact me through:
 
 - [LinkedIn](https://www.linkedin.com/in/dany-cajas/)
-- [Email](dcajasn@gmail.com)
+- dcajasn@gmail.com
 
 If you want to fund my work, you can visit my [ko-fi](https://ko-fi.com/riskfolio) page:
 
