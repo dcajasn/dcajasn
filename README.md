@@ -10,7 +10,7 @@ I'm from Peru, I studied economic engineering and I have a master in finance. I 
 
 ### Publications
 
-I'm not an academic but I wrote two working papers based on the mathematics that I needed to built Riskfolio-Lib:
+I'm not an academic but I wrote two working papers based on the mathematics that I needed to build Riskfolio-Lib:
 
 - __[Robust Portfolio Selection with Near Optimal Centering](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3572435):__ is a method that allows to increase robustness and diversification of portfolios.
 - __[Entropic Portfolio Optimization: a Disciplined Convex Programming Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792520):__ is a discretization of Entropic Value at Risk and Entropic Drawdown at Risk that allows us to use softwares that supports disciplined convex programming.
