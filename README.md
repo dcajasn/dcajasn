@@ -1,4 +1,12 @@
-## Hi people, I'm Dany 👋
+<h2 align="center"> Hi people, I'm Dany 👋
+<br>
+<a href="https://www.linkedin.com/in/dany-cajas/" target="_blank">
+  <img align="center" alt="Dany Cajas @LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="mailto:dcajasn@gmail.com" target="_blank">
+  <img align="center" alt="Dany Cajas @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</h2>
 
 I'm from Peru 🇵🇪, I studied economic engineering and I have a master in finance. I learned to programming by myself because I like to applied theory to real applications. My hobbies are workout at home, play video games, listen metal music, read about quantitative finance and programming applied to finance.
 
@@ -10,17 +18,18 @@ I'm from Peru 🇵🇪, I studied economic engineering and I have a master in fi
 
 ### Publications
 
-I'm not an academic but I wrote two working papers based on the mathematics that I needed to build Riskfolio-Lib:
+I'm not an academic but I wrote three working papers based on the mathematics that I needed to build Riskfolio-Lib:
 
 - __[Robust Portfolio Selection with Near Optimal Centering](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3572435):__ is a method that allows to increase robustness and diversification of portfolios.
 - __[Entropic Portfolio Optimization: a Disciplined Convex Programming Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792520):__ is a discretization of Entropic Value at Risk and Entropic Drawdown at Risk that allows us to use softwares that supports disciplined convex programming.
+- __[Kelly Portfolio Optimization: a Disciplined Convex Programming Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3833617):__ is a generalization of Kelly criterion that allows us to built Logarithmic Mean Risk Optimal Portfolios.
 
 ### Contact me
 
 If you have a question about my projects, want to talk about quantitative finance or a related topic, want to hire my services or have an interested project you think we can colaborate, you can contact me through:
 
 - [LinkedIn](https://www.linkedin.com/in/dany-cajas/)
-- dcajasn@gmail.com
+- [Gmail](dcajasn@gmail.com)
 
 If you want to fund my work, you can visit my [ko-fi](https://ko-fi.com/riskfolio) page:
 
