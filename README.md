@@ -8,7 +8,7 @@
 </a>
 </h2>
 
-I'm from Peru 🇵🇪, I studied economic engineering and I have a master in finance. I learned to programming by myself because I like to applied theory to real applications. My hobbies are workout at home, play video games, listen metal music, read about quantitative finance and programming applied to finance.
+I'm Dany from Peru 🇵🇪, I studied economic engineering and I have a master in finance. I learned to programming by myself because I like to applied finance theory to real problems. My hobbies are workout at home, play video games, listen metal music, read about quantitative finance and programming applied to finance.
 
 ### Projects
 
