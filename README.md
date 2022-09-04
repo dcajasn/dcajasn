@@ -28,9 +28,11 @@ I'm not an academic but I wrote three working papers based on the mathematics th
 
 If you have a question about my projects, want to talk about quantitative finance or a related topic, want to hire my services, have a job opportunity for me or have an interested project you think we can colaborate, you can contact me through:
 
-- [LinkedIn](https://www.linkedin.com/in/dany-cajas/)
-- [Gmail](dcajasn@gmail.com)
+- __[LinkedIn](https://www.linkedin.com/in/dany-cajas/)__
+- __[Gmail](dcajasn@gmail.com)__
 
-If you want to fund my work, you can visit my [ko-fi](https://ko-fi.com/riskfolio) page:
+If you want to fund my open-source work and help to keep to maintain and update Riskfolio, you can help me through the following links:
 
-<a href='https://ko-fi.com/B0B833SXD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+- __[Github Sponsorship](https://github.com/sponsors/dcajasn)__
+
+- <a href='https://ko-fi.com/B0B833SXD' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
