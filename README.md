@@ -33,7 +33,7 @@ If you want to fund my open-source work and help to keep to maintain and update 
 
 I'm not an academic but I wrote seven working papers based on the mathematics that I needed to build Riskfolio-Lib:
 
-- __[Approximation of Portfolio Kurtosis through Sum of Squared Quadratic Forms]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202967](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472793)):__ shows a convex formulation of the optimization of an approximation of portfolio kurtosis based on a reformulation of kurtosis as a sum of squared quadratic forms.
+- __[Approximation of Portfolio Kurtosis through Sum of Squared Quadratic Forms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472793):__ shows a convex formulation of the optimization of an approximation of portfolio kurtosis based on a reformulation of kurtosis as a sum of squared quadratic forms.
 - __[Higher Order Moment Portfolio Optimization with L-Moments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4393155):__ shows an alternative way to optimize skewness and kurtosis using a convex formulation based on the OWA portfolio model and L-moments like L-skewness and L-kurtosis.
 - __[Portfolio Optimization of Relativistic Value at Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4378498):__ shows a generalization of Entropic Value at Risk based on Kaniadakis entropy. Allows to optimize the Relativistic Value at Risk and Relativistic Drawdown at Risk using softwares that supports disciplined convex programming rules.
 - __[Convex Optimization of Portfolio Kurtosis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202967):__ shows a convex formulation of the optimization of portfolio kurtosis based on semidefinite and second order cone programming.
