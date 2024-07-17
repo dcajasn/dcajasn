@@ -31,8 +31,9 @@ If you want to fund my open-source work and help to keep to maintain and update 
 
 ### Publications
 
-I'm not an academic but I wrote eight working papers based on the mathematics that I needed to build Riskfolio-Lib:
+I'm not an academic but I wrote thirteen working papers based on the mathematics that I needed to build Riskfolio-Lib:
 
+- __[Efficient Gini Mean Difference and Tail Gini Portfolio Optimization based on P-Norms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4711326):__ shows an approximation based on P-Norms to the Gini Mean Difference and Tail Gini portfolio models that are computationally efficient compared to the linear programming formulations.
 - __[A Graph Theory Approach to Portfolio Optimization Part II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667426):__ shows a how to incorporate the information from dendrogram's cluster into the portfolio optimization process.
 - __[A Graph Theory Approach to Portfolio Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602019):__ shows a how to incorporate the information about the centrality and neighborhood of graphs into the portfolio optimization process.
 - __[Portfolio Optimization of Brownian Distance Variance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4561293):__ shows a convex formulation of the optimization of brownian distance variance.
