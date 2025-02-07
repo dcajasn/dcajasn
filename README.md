@@ -6,6 +6,8 @@
   <a href="mailto:dcajasn@gmail.com" target="_blank">
   <img align="center" alt="Dany Cajas @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br>
+<a href="https://www.kqzyfj.com/click-101360347-15150084?url=https%3A%2F%2Flink.springer.com%2Fbook%2F9783031843037" target="_blank"><button style="padding:10px 20px; font-size:16px; background-color: #FFA500; color:white; border:none; border-radius:5px; cursor:pointer;">Buy Advanced Portfolio Optimization Book on Springer</button></a>
 </h2>
 
 I'm Dany from Peru 🇵🇪, I studied economic engineering and I have a master in finance. I learned to programming by myself because I like to applied finance theory to real problems. My hobbies are workout at home, play video games, listen metal music, read about quantitative finance and programming applied to finance.
@@ -33,6 +35,8 @@ If you want to fund my open-source work and help to keep to maintain and update 
 
 I'm not an academic but I wrote thirteen working papers based on the mathematics that I needed to build Riskfolio-Lib:
 
+- __[Advanced Portfolio Optimization: A Cutting-edge Quantitative Approach](https://www.kqzyfj.com/click-101360347-15150084?url=https%3A%2F%2Flink.springer.com%2Fbook%2F9783031843037):__ This book is an innovative and comprehensive guide that provides readers with the knowledge about the latest trends, models and algorithms used to build investment portfolios and the practical skills necessary to apply them in their own investment strategies. It integrates latest advanced quantitative techniques into portfolio optimization, raises questions about which alternatives to modern portfolio theory exists and how they can be applied to improve the performance of multi-asset portfolios. It provides answers and solutions by offering practical tools and code samples that enable readers to implement advanced portfolio optimization techniques and make informed investment decisions.
+- __[A Semidefinite Programming Approach to Risk Parity Portfolio Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5097869):__ shows a generalization of the risk parity model for the variance that allows to integrate risk contribution inequalities and equalities constraints into classic mean variance models.
 - __[Efficient Gini Mean Difference and Tail Gini Portfolio Optimization based on P-Norms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4711326):__ shows an approximation based on P-Norms to the Gini Mean Difference and Tail Gini portfolio models that are computationally efficient compared to the linear programming formulations.
 - __[A Graph Theory Approach to Portfolio Optimization Part II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667426):__ shows a how to incorporate the information from dendrogram's cluster into the portfolio optimization process.
 - __[A Graph Theory Approach to Portfolio Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602019):__ shows a how to incorporate the information about the centrality and neighborhood of graphs into the portfolio optimization process.
